@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Date": "01.02.2020",
+    "HoursCount": "5",
+    "ProjectName": "Goliaph",
+    "Name": "Andrew",
+    "Position": "1"
+  },
+  {
+    "Date": "01.02.2020",
+    "HoursCount": "14",
+    "ProjectName": "Goliaph",
+    "Name": "Andrew",
+    "Position": "1"
+  },
+  {
+    "Date": "13.06.2020",
+    "HoursCount": "10",
+    "ProjectName": "Red",
+    "Name": "Vitalik",
+    "Position": "2"
+  },
+  {
+    "Date": "13.02.2020",
+    "HoursCount": "10",
+    "ProjectName": "Red2",
+    "Name": "Vitalik",
+    "Position": "2"
+  }
+]
